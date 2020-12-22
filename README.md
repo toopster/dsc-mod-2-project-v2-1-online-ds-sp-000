@@ -38,6 +38,8 @@ As outlined in the [Jupyter Notebook](index.ipynb) included in this repository, 
 
 1. Initial **Exploratory Data Analysis** to review and validate the data fields available in the `kc_house_data.csv` dataset and understand each feature and their relationships both with each other and with the target variable, `price`.  The notebook contains several visualisations that are used in the [non-technical presentation](presentation.pdf) but also a choropleth map of average house price by zipcode.  Unfortunately the map does not appear inline within the notebook but in a [separate file](zipcode_choropleth.html).
 
+![Number of House Sales in King County 2014-15 by Zip Code](https://github.com/toopster/dsc-mod-2-project-v2-1-online-ds-sp-000/number-of-house-sales-by-zipcode.png)
+
 2. The creation, refinement through iteration, validation and evaluation of a **Multivariate Linear Regression Model** including the use of stepwise feature selection, that highlights the influencing features and creates a prediction model for house prices in King County.
 
 
